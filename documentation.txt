@@ -1,1 +1,1 @@
-// This game is working with pyxel 
+This game is working with pyxe : https://github.com/kitao/pyxel/blob/main/README.md
